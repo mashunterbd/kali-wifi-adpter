@@ -1,4 +1,4 @@
-# kali-wifi-adpter
+# Kali Linux Support Wi-Fi adaptor List 
 This is the list of Kali supported Wi-Fi adaptor and chipset
 
 
